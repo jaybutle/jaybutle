@@ -27,7 +27,7 @@
     </a>
 </p>
 
-<h3 align="center">📬 Connect with me</h3>
+<h3 align="center"> Connect with me</h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/jaybutle">
@@ -71,7 +71,7 @@
 <p align="center">
 🎓 B.Tech CSE Student at MIT-ADT University <br>
 💻 Full Stack Developer (MERN Stack) <br>
-🚀 Building real-world projects like eMedica & Women Shield <br>
+🚀 Building real-world projects <br>
 🧠 Interested in AI, Cybersecurity & Placement Preparation Systems <br>
 </p>
 
