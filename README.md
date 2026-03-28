@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-<h1 align="center">✩&emsp;Hello there! I'm Jay Butle&emsp;✩</h1>
+<h1 align="center">✩&emsp;Hello there! I'm Jay Butle..&emsp;✩</h1>
 </p>
 
 <p align="center">
