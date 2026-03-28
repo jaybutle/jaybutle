@@ -38,7 +38,7 @@
         <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
             height="30" width="30" />
     </a>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <a href="https://github.com/jaybutle">
         <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png"
             height="30" width="30" />
     </a>
