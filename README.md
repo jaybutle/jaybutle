@@ -46,7 +46,7 @@
 
 ---
 
-<h3 align="center">🚀 Tech Stack</h3>
+<h3 align="center">🚀 Tech Stack:</h3>
 
 <!--<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
