@@ -72,7 +72,7 @@
 🎓 B.Tech CSE Student at MIT-ADT University <br>
 💻 Full Stack Developer (MERN Stack) <br>
 🚀 Building real-world projects <br>
-🧠 Interested in AI, Cybersecurity & Placement Preparation Systems <br>
+🧠 Interested in AI & Cybersecurity  <br>
 </p>
 
 [![An image of @jaybutle's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaybutle)](https://holopin.io/@jaybutle)
