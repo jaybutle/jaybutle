@@ -27,23 +27,24 @@
     </a>
 </p>
 
-<h3 align="center"> Connect with me</h3>
+<h3 align="center">Connect with me</h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/jaybutle">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            height="30" width="40" />
-    </a>
-    <a href="mailto:jaymangeshbutley@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
-            height="30" width="30" />
-    </a>
-    <a href="https://github.com/jaybutle">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png"
-            height="30" width="30" />
-    </a>
-</p>
+  <a href="https://www.linkedin.com/in/jaybutle" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      height="40" width="40" style="margin: 10px;" />
+  </a>
 
+  <a href="mailto:jaymangeshbutley@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+      height="40" width="40" style="margin: 10px;" />
+  </a>
+
+  <a href="https://github.com/jaybutle" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png"
+      height="40" width="40" style="margin: 10px;" />
+  </a>
+</p>
 ---
 
 <h3 align="center">🚀 Tech Stack </h3>
