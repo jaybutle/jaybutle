@@ -45,7 +45,6 @@
       height="40" width="40" style="margin: 10px;" />
   </a>
 </p>
----
 
 <h3 align="center">🚀 Tech Stack :</h3>
 
