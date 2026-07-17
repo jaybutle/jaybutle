@@ -27,7 +27,7 @@
     </a>
 </p>
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Connect with me :</h3>
 
 <p align="center" style="display: flex; justify-content: center; gap: 15px;">
   <a href="https://www.linkedin.com/in/jaybutle" target="_blank">
@@ -46,7 +46,7 @@
   </a>
 </p>
 
-<h3 align="center">🚀 My Tech Stack </h3>
+<h3 align="center">🚀 My Tech Stack :</h3>
 
 <!--<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
